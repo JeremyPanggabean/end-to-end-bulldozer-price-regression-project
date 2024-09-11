@@ -22,7 +22,7 @@ Untuk informasi lebih lanjut, lihat:
 - [Evaluasi Proyek](https://www.kaggle.com/c/bluebook-for-bulldozers/overview/evaluation)
 
 ## 4. Fitur
-Kaggle menyediakan kamus data yang menjelaskan semua fitur dari dataset. Anda dapat melihatnya di Google Sheets:
+Kaggle menyediakan data yang menjelaskan semua fitur dari dataset. Anda dapat melihatnya di Google Sheets:
 - [Data Dictionary](https://docs.google.com/spreadsheets/d/1jW1AR7HwneJSosG2Fkca_IPnw-NyubNugllcmzr61kQ/edit?usp=sharing)
 
 ## 5. Instalasi
